@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/shubhaml1/Zomato_Clone_Using_ReactJS-main.git/static/css/main.004a819b.css",
-    "main.js": "/shubhaml1/Zomato_Clone_Using_ReactJS-main.git/static/js/main.16b1ff3e.js",
-    "static/js/787.5095993b.chunk.js": "/shubhaml1/Zomato_Clone_Using_ReactJS-main.git/static/js/787.5095993b.chunk.js",
-    "index.html": "/shubhaml1/Zomato_Clone_Using_ReactJS-main.git/index.html",
-    "main.004a819b.css.map": "/shubhaml1/Zomato_Clone_Using_ReactJS-main.git/static/css/main.004a819b.css.map",
-    "main.16b1ff3e.js.map": "/shubhaml1/Zomato_Clone_Using_ReactJS-main.git/static/js/main.16b1ff3e.js.map",
-    "787.5095993b.chunk.js.map": "/shubhaml1/Zomato_Clone_Using_ReactJS-main.git/static/js/787.5095993b.chunk.js.map"
+    "main.css": "/Zomato_Clone_Using_ReactJS-main/static/css/main.004a819b.css",
+    "main.js": "/Zomato_Clone_Using_ReactJS-main/static/js/main.84271136.js",
+    "static/js/787.5095993b.chunk.js": "/Zomato_Clone_Using_ReactJS-main/static/js/787.5095993b.chunk.js",
+    "index.html": "/Zomato_Clone_Using_ReactJS-main/index.html",
+    "main.004a819b.css.map": "/Zomato_Clone_Using_ReactJS-main/static/css/main.004a819b.css.map",
+    "main.84271136.js.map": "/Zomato_Clone_Using_ReactJS-main/static/js/main.84271136.js.map",
+    "787.5095993b.chunk.js.map": "/Zomato_Clone_Using_ReactJS-main/static/js/787.5095993b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.004a819b.css",
-    "static/js/main.16b1ff3e.js"
+    "static/js/main.84271136.js"
   ]
 }
