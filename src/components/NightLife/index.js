@@ -97,7 +97,7 @@ const NightLife = () => {
       </div>
       <ExploreSection
         list={nightList}
-        collectionName="Night Life restaurants in Bangalore"
+        collectionName="Night Life restaurants in Lucknow"
       />
     </div>
   );

@@ -45,7 +45,7 @@ const Delivery = () => {
       </div>
       <DeliveryCollections />
       <TopBrands />
-      <ExploreSection list={restaurantList} collectionName='Delivery Restaurants in Bangalore'/>
+      <ExploreSection list={restaurantList} collectionName='Delivery Restaurants in Lucknow'/>
     </div>
   );
 };

@@ -95,7 +95,7 @@ const DiningOut = () => {
       <div className="max-width">
         <Filters filterList={diningFilters} />
       </div>
-      <ExploreSection list={diningList} collectionName="Dine-out Restaurants in Bangalore" />
+      <ExploreSection list={diningList} collectionName="Dine-out Restaurants in Lucknow" />
     </div>
   );
 };
