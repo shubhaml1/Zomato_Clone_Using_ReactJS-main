@@ -1,3 +1,7 @@
-# Developed a Zomato landing page clone using ReactJS, featuring modular components to simulate a modern web app interface. Focused on reusable React components to enhance scalability and maintainability.
+<h1>Zomato Landing Page Clone</h1>
+<p>
+A clone of the Zomato landing page built with <strong>ReactJS</strong>. This project features modular and reusable components, mimicking a modern web app interface. Designed with scalability, maintainability, and responsive design in mind.
+</p>
+
 
 
